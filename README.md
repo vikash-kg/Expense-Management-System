@@ -1,0 +1,1 @@
+This application helps to track your income and expenses, visualize your spending patterns, and manage your finances efficiently. Built with the MERN stack (MongoDB, Express, React, Node.js), this app provides a seamless and robust solution for personal expense management.
